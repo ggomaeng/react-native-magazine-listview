@@ -4,6 +4,9 @@ A pure javascript magazine listview for React Native framework.
 ###Inspiration
 ![alt tag](https://raw.githubusercontent.com/ggomaeng/react-native-magazine-listview/master/inspiration.gif)
 
+By Frederik Røssell from dribble.com
+https://dribbble.com/shots/3058788-Digital-magazine-mockup
+
 ###Demo
 ![alt tag](https://raw.githubusercontent.com/ggomaeng/react-native-magazine-listview/master/demo.gif)
 
