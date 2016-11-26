@@ -1,7 +1,7 @@
 # react-native-magazine-listview
 A pure javascript magazine listview for React Native framework.
 
-###inspiration
+###Inspiration
 ![alt tag](https://raw.githubusercontent.com/ggomaeng/react-native-magazine-listview/master/inspiration.gif)
 
 ###Demo
