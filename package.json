@@ -1,0 +1,14 @@
+{
+  "name": "react-native-digital-magazine",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "exponent": "~11.0.2",
+    "@exponent/vector-icons": "~2.0.3",
+    "react": "~15.3.2",
+    "react-native": "git+https://github.com/exponentjs/react-native#sdk-11.0.3"
+  }
+}
